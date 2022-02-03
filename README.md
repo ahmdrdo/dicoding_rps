@@ -1,4 +1,4 @@
-# Machine Learning Model: Rock Paper Scissor
+# Machine Learning: Rock Paper Scissor Classifier
 
 _This work is a personal assignment for Dicoding as a part of the Digital Talent Scholarship._
 
